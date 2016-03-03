@@ -9,3 +9,7 @@ A talk about the process of building and running Haskell in the cloud with vario
 ## Presenting
 
 Simply open `index.html` in your favorite browser.
+
+## On the web
+
+<http://sordina.presentations.s3.amazonaws.com/mfug_weaponized_haskell_20160303/index.html#/>
